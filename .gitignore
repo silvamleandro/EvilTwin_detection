@@ -1,4 +1,5 @@
 **/__pycache__
 **/.ipynb_checkpoints
 data/original/AWID3_Dataset_CSV/CSV/12.Evil_Twin/*
+src/logs.log
 .vscode/settings.json
