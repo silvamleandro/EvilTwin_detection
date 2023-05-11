@@ -22,7 +22,7 @@ Precision: 0.99002
 
 Recall: 0.99683
 AUC: 0.99774
-Total Time: 0.78969 seconds
+Total Time: 0.81325 seconds
 
 RandomForestClassifier
  RandomForestClassifier(random_state=42)
@@ -48,7 +48,7 @@ Precision: 0.99002
 
 Recall: 0.99683
 AUC: 0.99774
-Total Time: 0.75468 seconds
+Total Time: 0.77143 seconds
 
 RandomForestClassifier
  RandomForestClassifier(random_state=42)
@@ -74,5 +74,5 @@ Precision: 0.99002
 
 Recall: 0.99683
 AUC: 0.99774
-Total Time: 0.75663 seconds
+Total Time: 0.77399 seconds
 

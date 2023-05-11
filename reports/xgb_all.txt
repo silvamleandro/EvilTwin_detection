@@ -32,7 +32,7 @@ Precision: 0.98741
 
 Recall: 0.99577
 AUC: 0.99854
-Total Time: 0.4763 seconds
+Total Time: 0.48791 seconds
 
 XGBClassifier
  XGBClassifier(base_score=None, booster=None, callbacks=None,
@@ -68,7 +68,7 @@ Precision: 0.98741
 
 Recall: 0.99577
 AUC: 0.99854
-Total Time: 0.42754 seconds
+Total Time: 0.4829 seconds
 
 XGBClassifier
  XGBClassifier(base_score=None, booster=None, callbacks=None,
@@ -104,5 +104,5 @@ Precision: 0.98741
 
 Recall: 0.99577
 AUC: 0.99854
-Total Time: 0.456 seconds
+Total Time: 0.49322 seconds
 

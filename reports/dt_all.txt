@@ -22,7 +22,7 @@ Precision: 0.98791
 
 Recall: 0.99365
 AUC: 0.991
-Total Time: 0.04195 seconds
+Total Time: 0.04178 seconds
 
 DecisionTreeClassifier
  DecisionTreeClassifier(random_state=42)
@@ -48,7 +48,7 @@ Precision: 0.98791
 
 Recall: 0.99365
 AUC: 0.991
-Total Time: 0.03856 seconds
+Total Time: 0.03946 seconds
 
 DecisionTreeClassifier
  DecisionTreeClassifier(random_state=42)
@@ -74,5 +74,5 @@ Precision: 0.98791
 
 Recall: 0.99365
 AUC: 0.991
-Total Time: 0.0393 seconds
+Total Time: 0.03931 seconds
 

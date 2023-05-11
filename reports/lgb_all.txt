@@ -22,7 +22,7 @@ Precision: 0.98898
 
 Recall: 0.9963
 AUC: 0.99892
-Total Time: 0.3246 seconds
+Total Time: 0.34997 seconds
 
 LGBMClassifier
  LGBMClassifier(random_state=42)
@@ -48,7 +48,7 @@ Precision: 0.98898
 
 Recall: 0.9963
 AUC: 0.99892
-Total Time: 0.30921 seconds
+Total Time: 0.35157 seconds
 
 LGBMClassifier
  LGBMClassifier(random_state=42)
@@ -74,5 +74,5 @@ Precision: 0.98898
 
 Recall: 0.9963
 AUC: 0.99892
-Total Time: 0.30451 seconds
+Total Time: 0.32802 seconds
 

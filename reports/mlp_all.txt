@@ -22,7 +22,7 @@ Precision: 0.98641
 
 Recall: 0.99788
 AUC: 0.99713
-Total Time: 10.04593 seconds
+Total Time: 10.2638 seconds
 
 MLPClassifier
  MLPClassifier(random_state=42)
@@ -48,7 +48,7 @@ Precision: 0.98641
 
 Recall: 0.99788
 AUC: 0.99713
-Total Time: 9.28178 seconds
+Total Time: 10.04923 seconds
 
 MLPClassifier
  MLPClassifier(random_state=42)
@@ -74,5 +74,5 @@ Precision: 0.98641
 
 Recall: 0.99788
 AUC: 0.99713
-Total Time: 9.26394 seconds
+Total Time: 9.48946 seconds
 

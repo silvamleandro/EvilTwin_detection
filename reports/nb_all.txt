@@ -22,7 +22,7 @@ Precision: 0.78257
 
 Recall: 0.98784
 AUC: 0.98846
-Total Time: 0.03096 seconds
+Total Time: 0.02779 seconds
 
 GaussianNB
  GaussianNB()
@@ -48,7 +48,7 @@ Precision: 0.78257
 
 Recall: 0.98784
 AUC: 0.98846
-Total Time: 0.02677 seconds
+Total Time: 0.02749 seconds
 
 GaussianNB
  GaussianNB()
@@ -74,5 +74,5 @@ Precision: 0.78257
 
 Recall: 0.98784
 AUC: 0.98846
-Total Time: 0.02762 seconds
+Total Time: 0.0271 seconds
 
