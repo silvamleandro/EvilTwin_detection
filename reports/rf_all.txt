@@ -22,7 +22,7 @@ Precision: 0.99002
 
 Recall: 0.99683
 AUC: 0.99774
-Total Time: 0.81325 seconds
+Total Time: 0.79969 seconds
 
 RandomForestClassifier
  RandomForestClassifier(random_state=42)
@@ -48,7 +48,7 @@ Precision: 0.99002
 
 Recall: 0.99683
 AUC: 0.99774
-Total Time: 0.77143 seconds
+Total Time: 0.81039 seconds
 
 RandomForestClassifier
  RandomForestClassifier(random_state=42)
@@ -74,5 +74,57 @@ Precision: 0.99002
 
 Recall: 0.99683
 AUC: 0.99774
-Total Time: 0.77399 seconds
+Total Time: 0.8218 seconds
+
+RandomForestClassifier
+ RandomForestClassifier(random_state=42)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.99680   0.98994   0.99336      1888
+   Evil Twin    0.99002   0.99683   0.99341      1891
+
+    accuracy                        0.99338      3779
+   macro avg    0.99341   0.99338   0.99338      3779
+weighted avg    0.99341   0.99338   0.99338      3779
+
+
+Accuracy: 0.99338
+
+F1-Score: 0.99341
+
+Precision: 0.99002
+
+Recall: 0.99683
+AUC: 0.99774
+Total Time: 0.7764 seconds
+
+RandomForestClassifier
+ RandomForestClassifier(random_state=42)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.99680   0.98994   0.99336      1888
+   Evil Twin    0.99002   0.99683   0.99341      1891
+
+    accuracy                        0.99338      3779
+   macro avg    0.99341   0.99338   0.99338      3779
+weighted avg    0.99341   0.99338   0.99338      3779
+
+
+Accuracy: 0.99338
+
+F1-Score: 0.99341
+
+Precision: 0.99002
+
+Recall: 0.99683
+AUC: 0.99774
+Total Time: 0.76782 seconds
 

@@ -22,7 +22,7 @@ Precision: 0.98898
 
 Recall: 0.9963
 AUC: 0.99892
-Total Time: 0.34997 seconds
+Total Time: 0.34838 seconds
 
 LGBMClassifier
  LGBMClassifier(random_state=42)
@@ -48,7 +48,7 @@ Precision: 0.98898
 
 Recall: 0.9963
 AUC: 0.99892
-Total Time: 0.35157 seconds
+Total Time: 0.33522 seconds
 
 LGBMClassifier
  LGBMClassifier(random_state=42)
@@ -74,5 +74,31 @@ Precision: 0.98898
 
 Recall: 0.9963
 AUC: 0.99892
-Total Time: 0.32802 seconds
+Total Time: 0.32871 seconds
+
+LGBMClassifier
+ LGBMClassifier(random_state=42)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.99626   0.98888   0.99256      1888
+   Evil Twin    0.98898   0.99630   0.99262      1891
+
+    accuracy                        0.99259      3779
+   macro avg    0.99262   0.99259   0.99259      3779
+weighted avg    0.99262   0.99259   0.99259      3779
+
+
+Accuracy: 0.99259
+
+F1-Score: 0.99262
+
+Precision: 0.98898
+
+Recall: 0.9963
+AUC: 0.99892
+Total Time: 0.45018 seconds
 

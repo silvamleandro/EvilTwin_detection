@@ -22,7 +22,7 @@ Precision: 0.98641
 
 Recall: 0.99788
 AUC: 0.99713
-Total Time: 10.2638 seconds
+Total Time: 10.95294 seconds
 
 MLPClassifier
  MLPClassifier(random_state=42)
@@ -48,7 +48,7 @@ Precision: 0.98641
 
 Recall: 0.99788
 AUC: 0.99713
-Total Time: 10.04923 seconds
+Total Time: 10.70744 seconds
 
 MLPClassifier
  MLPClassifier(random_state=42)
@@ -74,5 +74,31 @@ Precision: 0.98641
 
 Recall: 0.99788
 AUC: 0.99713
-Total Time: 9.48946 seconds
+Total Time: 9.70948 seconds
+
+MLPClassifier
+ MLPClassifier(random_state=42)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.99786   0.98623   0.99201      1888
+   Evil Twin    0.98641   0.99788   0.99211      1891
+
+    accuracy                        0.99206      3779
+   macro avg    0.99213   0.99206   0.99206      3779
+weighted avg    0.99213   0.99206   0.99206      3779
+
+
+Accuracy: 0.99206
+
+F1-Score: 0.99211
+
+Precision: 0.98641
+
+Recall: 0.99788
+AUC: 0.99713
+Total Time: 10.11066 seconds
 

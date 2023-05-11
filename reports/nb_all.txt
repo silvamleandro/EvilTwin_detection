@@ -22,7 +22,7 @@ Precision: 0.78257
 
 Recall: 0.98784
 AUC: 0.98846
-Total Time: 0.02779 seconds
+Total Time: 0.02688 seconds
 
 GaussianNB
  GaussianNB()
@@ -48,7 +48,7 @@ Precision: 0.78257
 
 Recall: 0.98784
 AUC: 0.98846
-Total Time: 0.02749 seconds
+Total Time: 0.03143 seconds
 
 GaussianNB
  GaussianNB()
@@ -74,5 +74,57 @@ Precision: 0.78257
 
 Recall: 0.98784
 AUC: 0.98846
-Total Time: 0.0271 seconds
+Total Time: 0.02905 seconds
+
+GaussianNB
+ GaussianNB()
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.98348   0.72511   0.83476      1888
+   Evil Twin    0.78257   0.98784   0.87331      1891
+
+    accuracy                        0.85658      3779
+   macro avg    0.88302   0.85647   0.85403      3779
+weighted avg    0.88294   0.85658   0.85405      3779
+
+
+Accuracy: 0.85658
+
+F1-Score: 0.87331
+
+Precision: 0.78257
+
+Recall: 0.98784
+AUC: 0.98846
+Total Time: 0.02864 seconds
+
+GaussianNB
+ GaussianNB()
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.98348   0.72511   0.83476      1888
+   Evil Twin    0.78257   0.98784   0.87331      1891
+
+    accuracy                        0.85658      3779
+   macro avg    0.88302   0.85647   0.85403      3779
+weighted avg    0.88294   0.85658   0.85405      3779
+
+
+Accuracy: 0.85658
+
+F1-Score: 0.87331
+
+Precision: 0.78257
+
+Recall: 0.98784
+AUC: 0.98846
+Total Time: 0.02738 seconds
 

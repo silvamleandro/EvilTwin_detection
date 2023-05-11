@@ -1,87 +1,87 @@
 LGBMClassifier
- LGBMClassifier(bagging_fraction=0.9266968250808774, bagging_freq=12,
-               feature_fraction=0.5168799939136163,
-               lambda_l1=0.04183461159153165, lambda_l2=0.002339075730897134,
-               min_child_samples=51, num_leaves=97)
+ LGBMClassifier(bagging_fraction=0.512408725274021, bagging_freq=0,
+               feature_fraction=0.5596237861328586,
+               lambda_l1=5.9412928364113396e-06, lambda_l2=0.03380594308940047,
+               min_child_samples=39, num_leaves=407)
 
 
 			Classification Report
 
               precision    recall  f1-score   support
 
-      Normal    0.98870   0.97352   0.98105      1888
-   Evil Twin    0.97396   0.98889   0.98137      1891
+      Normal    0.98606   0.97405   0.98002      1888
+   Evil Twin    0.97440   0.98625   0.98029      1891
 
-    accuracy                        0.98121      3779
-   macro avg    0.98133   0.98121   0.98121      3779
-weighted avg    0.98133   0.98121   0.98121      3779
+    accuracy                        0.98015      3779
+   macro avg    0.98023   0.98015   0.98015      3779
+weighted avg    0.98022   0.98015   0.98015      3779
 
 
-Accuracy: 0.98121
+Accuracy: 0.98015
 
-F1-Score: 0.98137
+F1-Score: 0.98029
 
-Precision: 0.97396
+Precision: 0.9744
 
-Recall: 0.98889
-AUC: 0.99749
-Total Time: 0.2135 seconds
+Recall: 0.98625
+AUC: 0.99769
+Total Time: 0.32231 seconds
 
 LGBMClassifier
- LGBMClassifier(bagging_fraction=0.9266968250808774, bagging_freq=12,
-               feature_fraction=0.5168799939136163,
-               lambda_l1=0.04183461159153165, lambda_l2=0.002339075730897134,
-               min_child_samples=51, num_leaves=97)
+ LGBMClassifier(bagging_fraction=0.512408725274021, bagging_freq=0,
+               feature_fraction=0.5596237861328586,
+               lambda_l1=5.9412928364113396e-06, lambda_l2=0.03380594308940047,
+               min_child_samples=39, num_leaves=407)
 
 
 			Classification Report
 
               precision    recall  f1-score   support
 
-      Normal    0.98870   0.97352   0.98105      1888
-   Evil Twin    0.97396   0.98889   0.98137      1891
+      Normal    0.98606   0.97405   0.98002      1888
+   Evil Twin    0.97440   0.98625   0.98029      1891
 
-    accuracy                        0.98121      3779
-   macro avg    0.98133   0.98121   0.98121      3779
-weighted avg    0.98133   0.98121   0.98121      3779
+    accuracy                        0.98015      3779
+   macro avg    0.98023   0.98015   0.98015      3779
+weighted avg    0.98022   0.98015   0.98015      3779
 
 
-Accuracy: 0.98121
+Accuracy: 0.98015
 
-F1-Score: 0.98137
+F1-Score: 0.98029
 
-Precision: 0.97396
+Precision: 0.9744
 
-Recall: 0.98889
-AUC: 0.99749
-Total Time: 0.27401 seconds
+Recall: 0.98625
+AUC: 0.99769
+Total Time: 0.3222 seconds
 
 LGBMClassifier
- LGBMClassifier(bagging_fraction=0.9266968250808774, bagging_freq=12,
-               feature_fraction=0.5168799939136163,
-               lambda_l1=0.04183461159153165, lambda_l2=0.002339075730897134,
-               min_child_samples=51, num_leaves=97)
+ LGBMClassifier(bagging_fraction=0.512408725274021, bagging_freq=0,
+               feature_fraction=0.5596237861328586,
+               lambda_l1=5.9412928364113396e-06, lambda_l2=0.03380594308940047,
+               min_child_samples=39, num_leaves=407)
 
 
 			Classification Report
 
               precision    recall  f1-score   support
 
-      Normal    0.98870   0.97352   0.98105      1888
-   Evil Twin    0.97396   0.98889   0.98137      1891
+      Normal    0.98606   0.97405   0.98002      1888
+   Evil Twin    0.97440   0.98625   0.98029      1891
 
-    accuracy                        0.98121      3779
-   macro avg    0.98133   0.98121   0.98121      3779
-weighted avg    0.98133   0.98121   0.98121      3779
+    accuracy                        0.98015      3779
+   macro avg    0.98023   0.98015   0.98015      3779
+weighted avg    0.98022   0.98015   0.98015      3779
 
 
-Accuracy: 0.98121
+Accuracy: 0.98015
 
-F1-Score: 0.98137
+F1-Score: 0.98029
 
-Precision: 0.97396
+Precision: 0.9744
 
-Recall: 0.98889
-AUC: 0.99749
-Total Time: 0.27221 seconds
+Recall: 0.98625
+AUC: 0.99769
+Total Time: 0.30395 seconds
 
