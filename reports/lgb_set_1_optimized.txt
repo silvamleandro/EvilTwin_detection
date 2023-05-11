@@ -1,0 +1,87 @@
+LGBMClassifier
+ LGBMClassifier(bagging_fraction=0.5818839191204505, bagging_freq=1,
+               feature_fraction=0.4721066243252997,
+               lambda_l1=8.293578226595299e-07, lambda_l2=6.684062841508138e-05,
+               min_child_samples=15, num_leaves=447)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.98763   0.97246   0.97998      1888
+   Evil Twin    0.97292   0.98784   0.98032      1891
+
+    accuracy                        0.98015      3779
+   macro avg    0.98027   0.98015   0.98015      3779
+weighted avg    0.98027   0.98015   0.98015      3779
+
+
+Accuracy: 0.98015
+
+F1-Score: 0.98032
+
+Precision: 0.97292
+
+Recall: 0.98784
+AUC: 0.99793
+Total Time: 0.35308 seconds
+
+LGBMClassifier
+ LGBMClassifier(bagging_fraction=0.5818839191204505, bagging_freq=1,
+               feature_fraction=0.4721066243252997,
+               lambda_l1=8.293578226595299e-07, lambda_l2=6.684062841508138e-05,
+               min_child_samples=15, num_leaves=447)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.98763   0.97246   0.97998      1888
+   Evil Twin    0.97292   0.98784   0.98032      1891
+
+    accuracy                        0.98015      3779
+   macro avg    0.98027   0.98015   0.98015      3779
+weighted avg    0.98027   0.98015   0.98015      3779
+
+
+Accuracy: 0.98015
+
+F1-Score: 0.98032
+
+Precision: 0.97292
+
+Recall: 0.98784
+AUC: 0.99793
+Total Time: 0.40189 seconds
+
+LGBMClassifier
+ LGBMClassifier(bagging_fraction=0.5818839191204505, bagging_freq=1,
+               feature_fraction=0.4721066243252997,
+               lambda_l1=8.293578226595299e-07, lambda_l2=6.684062841508138e-05,
+               min_child_samples=15, num_leaves=447)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.98763   0.97246   0.97998      1888
+   Evil Twin    0.97292   0.98784   0.98032      1891
+
+    accuracy                        0.98015      3779
+   macro avg    0.98027   0.98015   0.98015      3779
+weighted avg    0.98027   0.98015   0.98015      3779
+
+
+Accuracy: 0.98015
+
+F1-Score: 0.98032
+
+Precision: 0.97292
+
+Recall: 0.98784
+AUC: 0.99793
+Total Time: 0.40323 seconds
+

@@ -1,0 +1,78 @@
+DecisionTreeClassifier
+ DecisionTreeClassifier(random_state=42)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.99361   0.98782   0.99070      1888
+   Evil Twin    0.98791   0.99365   0.99077      1891
+
+    accuracy                        0.99074      3779
+   macro avg    0.99076   0.99074   0.99074      3779
+weighted avg    0.99075   0.99074   0.99074      3779
+
+
+Accuracy: 0.99074
+
+F1-Score: 0.99077
+
+Precision: 0.98791
+
+Recall: 0.99365
+AUC: 0.991
+Total Time: 0.04195 seconds
+
+DecisionTreeClassifier
+ DecisionTreeClassifier(random_state=42)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.99361   0.98782   0.99070      1888
+   Evil Twin    0.98791   0.99365   0.99077      1891
+
+    accuracy                        0.99074      3779
+   macro avg    0.99076   0.99074   0.99074      3779
+weighted avg    0.99075   0.99074   0.99074      3779
+
+
+Accuracy: 0.99074
+
+F1-Score: 0.99077
+
+Precision: 0.98791
+
+Recall: 0.99365
+AUC: 0.991
+Total Time: 0.03856 seconds
+
+DecisionTreeClassifier
+ DecisionTreeClassifier(random_state=42)
+
+
+			Classification Report
+
+              precision    recall  f1-score   support
+
+      Normal    0.99361   0.98782   0.99070      1888
+   Evil Twin    0.98791   0.99365   0.99077      1891
+
+    accuracy                        0.99074      3779
+   macro avg    0.99076   0.99074   0.99074      3779
+weighted avg    0.99075   0.99074   0.99074      3779
+
+
+Accuracy: 0.99074
+
+F1-Score: 0.99077
+
+Precision: 0.98791
+
+Recall: 0.99365
+AUC: 0.991
+Total Time: 0.0393 seconds
+
